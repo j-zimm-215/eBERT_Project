@@ -37,5 +37,7 @@ def eBERT_AI_v4(question,num_recs,min_time=80,max_time=500,era_start=1900,era_en
 
 
     #genres, mood, era, cast
+    #another comment
+    
 query = "chick flicks"
 eBERT_AI_v4(query,4)
